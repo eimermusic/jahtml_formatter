@@ -1,4 +1,7 @@
 # coding: UTF-8
+## this isn't needed anymore
+## please see jahtml_formatter for
+## more info on why
 module IsoExampleMethods
   def description
     if @options.key?(:iso_id)

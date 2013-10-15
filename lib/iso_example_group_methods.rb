@@ -1,4 +1,7 @@
 # coding: UTF-8
+## this isn't needed anymore
+## please see jahtml_formatter for
+## more info on why
 module IsoExampleGroupMethods
   def self.included(klass)
     klass.extend ClassMethods
